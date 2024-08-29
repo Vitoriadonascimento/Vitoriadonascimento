@@ -4,7 +4,7 @@
 - 💻👩🏻‍💻👾 Perfil destinado às resoluções, Lógica de Programação e Banco de Dados.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriadonascimento&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Spritze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadonascimento&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" 
