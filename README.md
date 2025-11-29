@@ -1,4 +1,4 @@
-## Hi there , eu me chamo Vitória 👋
+## oi, eu me chamo Vitória 👋
 
 - 👩🏻‍🦰🏫 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻👩🏻‍💻👾 Perfil destinado às resoluções, Lógica de Programação e Banco de Dados.
