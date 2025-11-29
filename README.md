@@ -1,6 +1,6 @@
 ## oi, eu me chamo Vitória 👋
 
-- 👩🏻‍🦰🏫 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 👩🏻‍🦰🏫 Formada no Colégio Cedup Abílio Paulo - Técnico em informática de Criciúma/SC - Brasil
 - 💻👩🏻‍💻👾 Perfil destinado às resoluções, Lógica de Programação e Banco de Dados.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriadonascimento&theme=radical&show_icons=true)
